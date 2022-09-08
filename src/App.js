@@ -45,7 +45,7 @@ export default function App() {
 
       {authenticated && (
         <>
-          <h1>Add Todo</h1>
+          <h1>Add Todo Today</h1>
           <form onSubmit={onSubmit}>
             <label htmlFor="title">Title</label>
             <br />
