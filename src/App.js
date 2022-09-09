@@ -38,7 +38,7 @@ export default function App() {
         <>
           <h1>Login</h1>
           <button type="button" onClick={() => setAuthenticated(true)}>
-            Click here to login
+            Click here to login ok
           </button>
         </>
       )}
